@@ -1,0 +1,19 @@
+GEM
+  remote: https://rubygems.org/
+  specs:
+    mini_portile2 (2.8.0)
+    rack (3.0.0)
+    sequel (5.61.0)
+    sqlite3 (1.5.3)
+      mini_portile2 (~> 2.8.0)
+
+PLATFORMS
+  ruby
+
+DEPENDENCIES
+  rack
+  sequel
+  sqlite3
+
+BUNDLED WITH
+   2.1.4
